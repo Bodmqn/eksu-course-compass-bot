@@ -198,14 +198,14 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Christian Religious Knowledge", "Islamic Religious Studies"], "count": 1},
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
+                {"from": ["Christian Religious Studies", "Islamic Religious Studies"], "count": 1},
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
-                {"from": ["Government", "History", "Literature", "Civic Education", "Christian Religious Knowledge", "Islamic Religious Studies", "French", "Yoruba", "Hausa Language", "Igbo Language", "Mathematics", "Economics", "Home Economics", "Hospitality", "Accounting", "Financial Accounting", "Business Studies", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 4}
+                {"from": ["Government", "History", "Literature", "Civic Education", "Christian Religious Studies", "Islamic Religious Studies", "French", "Yoruba", "Hausa Language", "Igbo Language", "Mathematics", "Economics", "Home Economics", "Hospitality", "Accounting", "Financial Accounting", "Business Studies", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 4}
             ]
         }
     },
@@ -218,13 +218,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": ["Arabic"],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
-                {"from": ["Government", "History", "Literature", "Civic Education", "Christian Religious Knowledge", "Islamic Religious Studies", "French", "Yoruba", "Hausa Language", "Igbo Language", "Mathematics", "Economics", "Home Economics", "Hospitality", "Accounting", "Financial Accounting", "Business Studies", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 4}
+                {"from": ["Government", "History", "Literature", "Civic Education", "Christian Religious Studies", "Islamic Religious Studies", "French", "Yoruba", "Hausa Language", "Igbo Language", "Mathematics", "Economics", "Home Economics", "Hospitality", "Accounting", "Financial Accounting", "Business Studies", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 4}
             ]
         }
     },
@@ -235,15 +235,15 @@ COURSES = [
         "duration": "4 Years",
         "description": "The academic field of study that deals with Christianity.",
         "jamb_subjects": {
-            "fixed": ["Christian Religious Knowledge"],
+            "fixed": ["Christian Religious Studies"],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
-                {"from": ["Government", "History", "Literature", "Civic Education", "Christian Religious Knowledge", "Islamic Religious Studies", "French", "Yoruba", "Hausa Language", "Igbo Language", "Mathematics", "Economics", "Home Economics", "Hospitality", "Accounting", "Financial Accounting", "Business Studies", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 4}
+                {"from": ["Government", "History", "Literature", "Civic Education", "Christian Religious Studies", "Islamic Religious Studies", "French", "Yoruba", "Hausa Language", "Igbo Language", "Mathematics", "Economics", "Home Economics", "Hospitality", "Accounting", "Financial Accounting", "Business Studies", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 4}
             ]
         }
     },
@@ -256,13 +256,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": ["Literature"],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Literature"],
             "choices": [
-                {"from": ["Yoruba", "Government", "History", "Christian Religious Knowledge", "Islamic Religious Studies", "French", "Hausa Language", "Igbo Language", "Civic Education"], "count": 3}
+                {"from": ["Yoruba", "Government", "History", "Christian Religious Studies", "Islamic Religious Studies", "French", "Hausa Language", "Igbo Language", "Civic Education"], "count": 3}
             ]
         }
     },
@@ -275,14 +275,14 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 3}
+                {"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 3}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
                 {"from": ["History", "Government"], "count": 1},
-                {"from": ["Yoruba", "Christian Religious Knowledge", "Islamic Religious Studies", "Literature", "French", "Hausa Language", "Igbo Language", "Civic Education"], "count": 1}
+                {"from": ["Yoruba", "Christian Religious Studies", "Islamic Religious Studies", "Literature", "French", "Hausa Language", "Igbo Language", "Civic Education"], "count": 1}
             ],
             "any": 2
         }
@@ -297,13 +297,13 @@ COURSES = [
             "fixed": [],
             "choices": [
                 {"from": ["Yoruba", "Igbo Language", "Hausa Language"], "count": 1},
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
-                {"from": ["Yoruba", "Christian Religious Knowledge", "Islamic Religious Studies", "Literature", "French", "Hausa Language", "Igbo Language", "Civic Education", "Government", "History"], "count": 1}
+                {"from": ["Yoruba", "Christian Religious Studies", "Islamic Religious Studies", "Literature", "French", "Hausa Language", "Igbo Language", "Civic Education", "Government", "History"], "count": 1}
             ],
             "any": 3
         }
@@ -317,13 +317,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": ["Literature"],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Literature"],
             "choices": [
-                {"from": ["Yoruba", "French", "Christian Religious Knowledge", "Islamic Religious Studies", "Government", "History", "Economics", "Geography", "Civic Education", "Tourism", "Hospitality", "Accounting", "Commerce", "Business Studies", "Mathematics", "Home Economics", "Financial Accounting", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 3}
+                {"from": ["Yoruba", "French", "Christian Religious Studies", "Islamic Religious Studies", "Government", "History", "Economics", "Geography", "Civic Education", "Tourism", "Hospitality", "Accounting", "Commerce", "Business Studies", "Mathematics", "Home Economics", "Financial Accounting", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 3}
             ]
         }
     },
@@ -336,13 +336,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": ["French"],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
-                {"from": ["History", "Government", "Christian Religious Knowledge", "Islamic Religious Studies", "Literature", "Yoruba", "French", "Civic Education", "Mathematics", "Economics", "Home Economics", "Hospitality", "Accounting", "Financial Accounting", "Business Studies", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 4}
+                {"from": ["History", "Government", "Christian Religious Studies", "Islamic Religious Studies", "Literature", "Yoruba", "French", "Civic Education", "Mathematics", "Economics", "Home Economics", "Hospitality", "Accounting", "Financial Accounting", "Business Studies", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 4}
             ]
         }
     },
@@ -355,13 +355,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": ["Yoruba"],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Yoruba"],
             "choices": [
-                {"from": ["Christian Religious Knowledge", "Islamic Religious Studies", "French", "Igbo Language", "Hausa Language", "Government", "History", "Civic Education", "Literature", "Mathematics", "Economics", "Home Economics", "Hospitality", "Accounting", "Financial Accounting", "Business Studies", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 3}
+                {"from": ["Christian Religious Studies", "Islamic Religious Studies", "French", "Igbo Language", "Hausa Language", "Government", "History", "Civic Education", "Literature", "Mathematics", "Economics", "Home Economics", "Hospitality", "Accounting", "Financial Accounting", "Business Studies", "Marketing", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 3}
             ]
         }
     },
@@ -374,13 +374,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
-                {"from": ["Mathematics", "History", "Government", "Christian Religious Knowledge", "Islamic Religious Studies", "Literature", "Yoruba", "French", "Economics", "Geography", "Civic Education", "Tourism", "Business Studies", "Financial Accounting", "Accounting", "Book Keeping", "Hospitality", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 4}
+                {"from": ["Mathematics", "History", "Government", "Christian Religious Studies", "Islamic Religious Studies", "Literature", "Yoruba", "French", "Economics", "Geography", "Civic Education", "Tourism", "Business Studies", "Financial Accounting", "Accounting", "Book Keeping", "Hospitality", "Biology", "Chemistry", "Physics", "Agricultural Science"], "count": 4}
             ]
         }
     },
@@ -394,14 +394,14 @@ COURSES = [
         "jamb_subjects": {
             "fixed": ["Literature"],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 1},
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 1}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 1},
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 1}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Literature"],
             "choices": [
-                {"from": ["Government", "Christian Religious Knowledge", "Islamic Religious Studies", "History", "Yoruba", "French", "Civic Education"], "count": 1},
+                {"from": ["Government", "Christian Religious Studies", "Islamic Religious Studies", "History", "Yoruba", "French", "Civic Education"], "count": 1},
                 {"from": ["Mathematics", "Economics", "Commerce", "Geography", "Accounting", "Book Keeping", "Biology", "Tourism", "Marketing", "Business Studies"], "count": 2}
             ]
         }
@@ -415,13 +415,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": ["French"],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
-                {"from": ["Government", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "History", "Literature", "French"], "count": 1},
+                {"from": ["Government", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "History", "Literature", "French"], "count": 1},
                 {"from": ["Civic Education", "Economics", "Commerce", "Accounting", "Geography", "Biology", "Book Keeping", "Marketing", "Mathematics", "Tourism", "Business Studies"], "count": 3}
             ]
         }
@@ -435,13 +435,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": ["Yoruba"],
             "choices": [
-                {"from": ["Arabic", "Christian Religious Knowledge", "Islamic Religious Studies", "Geography", "Literature", "Physics"], "count": 2}
+                {"from": ["Arabic", "Christian Religious Studies", "Islamic Religious Studies", "Geography", "Literature", "Physics"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Yoruba"],
             "choices": [
-                {"from": ["Christian Religious Knowledge", "Islamic Religious Studies", "French", "Igbo Language", "Hausa Language", "Government", "History", "Literature"], "count": 1},
+                {"from": ["Christian Religious Studies", "Islamic Religious Studies", "French", "Igbo Language", "Hausa Language", "Government", "History", "Literature"], "count": 1},
                 {"from": ["Civic Education", "Economics", "Commerce", "Accounting", "Geography", "Biology", "Book Keeping", "Marketing", "Mathematics", "Tourism", "Business Studies"], "count": 2}
             ]
         }
@@ -455,14 +455,14 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Christian Religious Knowledge", "Islamic Religious Studies"], "count": 1},
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 2}
+                {"from": ["Christian Religious Studies", "Islamic Religious Studies"], "count": 1},
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
-                {"from": ["Christian Religious Knowledge", "Islamic Religious Studies", "French", "Igbo Language", "Hausa Language", "Government", "History", "Literature", "Yoruba"], "count": 1},
+                {"from": ["Christian Religious Studies", "Islamic Religious Studies", "French", "Igbo Language", "Hausa Language", "Government", "History", "Literature", "Yoruba"], "count": 1},
                 {"from": ["Civic Education", "Mathematics", "Economics", "Accounting", "Geography", "Commerce", "Book Keeping", "Biology", "Tourism", "Business Studies"], "count": 3}
             ]
         }
@@ -476,13 +476,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Islamic Religious Studies"],
             "choices": [
-                {"from": ["Christian Religious Knowledge", "French", "Igbo Language", "Hausa Language", "Government", "History", "Literature", "Yoruba"], "count": 2},
+                {"from": ["Christian Religious Studies", "French", "Igbo Language", "Hausa Language", "Government", "History", "Literature", "Yoruba"], "count": 2},
                 {"from": ["Civic Education", "Mathematics", "Economics", "Accounting", "Geography", "Commerce", "Book Keeping", "Biology", "Tourism", "Business Studies"], "count": 1}
             ]
         }
@@ -497,14 +497,14 @@ COURSES = [
             "fixed": [],
             "choices": [
                 {"from": ["History", "Government"], "count": 1},
-                {"from": ["Christian Religious Knowledge", "Islamic Religious Studies", "Economics", "French", "Geography", "Physics", "Hausa Language", "Literature", "Yoruba"], "count": 2}
+                {"from": ["Christian Religious Studies", "Islamic Religious Studies", "Economics", "French", "Geography", "Physics", "Hausa Language", "Literature", "Yoruba"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
                 {"from": ["History", "Government"], "count": 1},
-                {"from": ["Yoruba", "Literature", "French", "Igbo Language", "Hausa Language", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Civic Education", "Economics", "Accounting", "Commerce", "Geography", "Book Keeping", "Marketing", "Tourism", "Hospitality", "Business Studies"], "count": 3}
+                {"from": ["Yoruba", "Literature", "French", "Igbo Language", "Hausa Language", "Christian Religious Studies", "Islamic Religious Knowledge", "Civic Education", "Economics", "Accounting", "Commerce", "Geography", "Book Keeping", "Marketing", "Tourism", "Hospitality", "Business Studies"], "count": 3}
             ]
         }
     },
@@ -524,7 +524,7 @@ COURSES = [
             "fixed": ["English Language", "Mathematics", "Biology"],
             "choices": [
                 {"from": ["Chemistry", "Physics"], "count": 1},
-                {"from": ["Geography", "Economics", "Civic Education", "Government", "History", "Hospitality", "Home Economics", "Literature", "Yoruba", "Tourism", "Accounting", "Commerce", "Business Studies", "Christian Religious Knowledge"], "count": 1}
+                {"from": ["Geography", "Economics", "Civic Education", "Government", "History", "Hospitality", "Home Economics", "Literature", "Yoruba", "Tourism", "Accounting", "Commerce", "Business Studies", "Christian Religious Studies"], "count": 1}
             ]
         }
     },
@@ -544,7 +544,7 @@ COURSES = [
             "fixed": ["English Language", "Mathematics"],
             "choices": [
                 {"from": ["Chemistry", "Biology", "Physics"], "count": 1},
-                {"from": ["Economics", "Agricultural Science", "Civic Education", "Geography", "Hausa Language", "Accounting", "Business Studies", "Commerce", "Christian Religious Knowledge", "Computer Studies"], "count": 2}
+                {"from": ["Economics", "Agricultural Science", "Civic Education", "Geography", "Hausa Language", "Accounting", "Business Studies", "Commerce", "Christian Religious Studies", "Computer Studies"], "count": 2}
             ]
         }
     },
@@ -634,13 +634,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Christian Religious Knowledge", "Islamic Religious Knowledge", "Economics", "Geography", "Physics", "Government", "History"], "count": 3}
+                {"from": ["Christian Religious Studies", "Islamic Religious Knowledge", "Economics", "Geography", "Physics", "Government", "History"], "count": 3}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
-                {"from": ["Economics", "Geography", "Civic Education", "Government", "History", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Hospitality", "Home Economics", "Business Studies", "Tourism", "Commerce", "Accounting", "Book Keeping", "Mathematics", "Yoruba", "Igbo Language", "Hausa Language", "Literature", "Biology"], "count": 4}
+                {"from": ["Economics", "Geography", "Civic Education", "Government", "History", "Christian Religious Studies", "Islamic Religious Knowledge", "Hospitality", "Home Economics", "Business Studies", "Tourism", "Commerce", "Accounting", "Book Keeping", "Mathematics", "Yoruba", "Igbo Language", "Hausa Language", "Literature", "Biology"], "count": 4}
             ]
         }
     },
@@ -659,7 +659,7 @@ COURSES = [
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics", "Economics"],
             "choices": [
-                {"from": ["Geography", "Civic Education", "Government", "History", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Hospitality", "Home Economics", "Business Studies", "Tourism", "Commerce", "Accounting", "Book Keeping", "Literature", "Marketing"], "count": 2}
+                {"from": ["Geography", "Civic Education", "Government", "History", "Christian Religious Studies", "Islamic Religious Knowledge", "Hospitality", "Home Economics", "Business Studies", "Tourism", "Commerce", "Accounting", "Book Keeping", "Literature", "Marketing"], "count": 2}
             ]
         }
     },
@@ -673,13 +673,13 @@ COURSES = [
             "fixed": [],
             "choices": [
                 {"from": ["History", "Government"], "count": 1},
-                {"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
+                {"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Government", "Mathematics"],
             "choices": [
-                {"from": ["Geography", "Civic Education", "Government", "History", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Hospitality", "Home Economics", "Business Studies", "Tourism", "Commerce", "Accounting", "Book Keeping", "Literature", "Marketing"], "count": 2}
+                {"from": ["Geography", "Civic Education", "Government", "History", "Christian Religious Studies", "Islamic Religious Knowledge", "Hospitality", "Home Economics", "Business Studies", "Tourism", "Commerce", "Accounting", "Book Keeping", "Literature", "Marketing"], "count": 2}
             ]
         }
     },
@@ -692,13 +692,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": ["Geography"],
             "choices": [
-                {"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
+                {"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Geography", "Mathematics"],
             "choices": [
-                {"from": ["Economics", "Government", "History", "Civic Education", "Commerce", "Accounting", "Book Keeping", "Business Education", "Literature", "Business Studies", "Tourism", "Hospitality", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Home Economics", "Marketing"], "count": 2}
+                {"from": ["Economics", "Government", "History", "Civic Education", "Commerce", "Accounting", "Book Keeping", "Business Education", "Literature", "Business Studies", "Tourism", "Hospitality", "Christian Religious Studies", "Islamic Religious Knowledge", "Home Economics", "Marketing"], "count": 2}
             ]
         }
     },
@@ -747,13 +747,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics"],
             "choices": [
-                {"from": ["Literature", "Yoruba", "French", "History", "Government", "Christian Religious Knowledge", "Islamic Religious Studies", "Physics", "Chemistry", "Biology", "Economics", "Geography", "Civic Education", "Hospitality", "Home Economics", "Business Studies", "Tourism", "Commerce", "Accounting", "Book Keeping"], "count": 3}
+                {"from": ["Literature", "Yoruba", "French", "History", "Government", "Christian Religious Studies", "Islamic Religious Studies", "Physics", "Chemistry", "Biology", "Economics", "Geography", "Civic Education", "Hospitality", "Home Economics", "Business Studies", "Tourism", "Commerce", "Accounting", "Book Keeping"], "count": 3}
             ]
         }
     },
@@ -824,7 +824,7 @@ COURSES = [
             "fixed": ["English Language", "Mathematics"],
             "choices": [
                 {"from": ["Economics", "Commerce"], "count": 1},
-                {"from": ["Government", "History", "Geography", "Civic Education", "Financial Accounting", "Business Studies", "Literature", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Yoruba", "French", "Marketing", "Accounting", "Book Keeping", "Biology"], "count": 2}
+                {"from": ["Government", "History", "Geography", "Civic Education", "Financial Accounting", "Business Studies", "Literature", "Christian Religious Studies", "Islamic Religious Knowledge", "Yoruba", "French", "Marketing", "Accounting", "Book Keeping", "Biology"], "count": 2}
             ]
         }
     },
@@ -844,7 +844,7 @@ COURSES = [
             "fixed": ["English Language", "Mathematics"],
             "choices": [
                 {"from": ["Economics", "Commerce"], "count": 1},
-                {"from": ["Government", "History", "Geography", "Civic Education", "Financial Accounting", "Business Studies", "Literature", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Yoruba", "French", "Marketing", "Accounting", "Book Keeping", "Biology"], "count": 2}
+                {"from": ["Government", "History", "Geography", "Civic Education", "Financial Accounting", "Business Studies", "Literature", "Christian Religious Studies", "Islamic Religious Knowledge", "Yoruba", "French", "Marketing", "Accounting", "Book Keeping", "Biology"], "count": 2}
             ]
         }
     },
@@ -864,7 +864,7 @@ COURSES = [
             "fixed": ["English Language", "Mathematics"],
             "choices": [
                 {"from": ["Economics", "Commerce"], "count": 1},
-                {"from": ["Government", "History", "Geography", "Civic Education", "Financial Accounting", "Business Studies", "Literature", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Yoruba", "French", "Marketing", "Accounting", "Book Keeping", "Biology"], "count": 2}
+                {"from": ["Government", "History", "Geography", "Civic Education", "Financial Accounting", "Business Studies", "Literature", "Christian Religious Studies", "Islamic Religious Knowledge", "Yoruba", "French", "Marketing", "Accounting", "Book Keeping", "Biology"], "count": 2}
             ]
         }
     },
@@ -883,7 +883,7 @@ COURSES = [
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics"],
             "choices": [
-                {"from": ["Fine Art", "Building Construction", "Wood Work", "Technical Drawing", "Physics", "Chemistry", "Biology", "Geography", "Economics", "Civic Education", "Government", "History", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Hospitality", "Home Economics", "Business Studies", "Tourism", "Commerce", "Accounting", "Book Keeping", "Marketing", "Literature"], "count": 3}
+                {"from": ["Fine Art", "Building Construction", "Wood Work", "Technical Drawing", "Physics", "Chemistry", "Biology", "Geography", "Economics", "Civic Education", "Government", "History", "Christian Religious Studies", "Islamic Religious Knowledge", "Hospitality", "Home Economics", "Business Studies", "Tourism", "Commerce", "Accounting", "Book Keeping", "Marketing", "Literature"], "count": 3}
             ]
         }
     },
@@ -896,13 +896,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics"],
             "choices": [
-                {"from": ["Economics", "Government", "History", "Geography", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Yoruba", "Accounting", "Business Studies", "Tourism", "French", "Literature", "Home Economics", "Commerce", "Hospitality", "Physics", "Chemistry", "Biology"], "count": 3}
+                {"from": ["Economics", "Government", "History", "Geography", "Christian Religious Studies", "Islamic Religious Knowledge", "Yoruba", "Accounting", "Business Studies", "Tourism", "French", "Literature", "Home Economics", "Commerce", "Hospitality", "Physics", "Chemistry", "Biology"], "count": 3}
             ]
         }
     },
@@ -915,13 +915,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education", "Building Technology", "Technical Drawing", "Wood Work Technology", "Book Keeping", "Catering Craft Practice", "Dyeing & Bleaching", "Electrical Installation and Maintenance"], "count": 3}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education", "Building Technology", "Technical Drawing", "Wood Work Technology", "Book Keeping", "Catering Craft Practice", "Dyeing & Bleaching", "Electrical Installation and Maintenance"], "count": 3}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language"],
             "choices": [
-                {"from": ["Mathematics", "Biology", "Chemistry", "Physics", "Agricultural Science", "Technical Drawing", "Building Construction", "Wood Work", "Geography", "Civic Education", "Accounting", "Book Keeping", "Commerce", "Business Studies", "Hausa Language", "Clothing and Textiles", "Data Processing", "Dyeing and Bleaching", "Information and Communication Technology", "Insurance", "Marketing", "Music", "Office Practice", "Painting and Decoration", "Photography", "Government", "Literature", "Yoruba", "Christian Religious Knowledge", "Islamic Religious Knowledge", "French"], "count": 4}
+                {"from": ["Mathematics", "Biology", "Chemistry", "Physics", "Agricultural Science", "Technical Drawing", "Building Construction", "Wood Work", "Geography", "Civic Education", "Accounting", "Book Keeping", "Commerce", "Business Studies", "Hausa Language", "Clothing and Textiles", "Data Processing", "Dyeing and Bleaching", "Information and Communication Technology", "Insurance", "Marketing", "Music", "Office Practice", "Painting and Decoration", "Photography", "Government", "Literature", "Yoruba", "Christian Religious Studies", "Islamic Religious Knowledge", "French"], "count": 4}
             ]
         }
     },
@@ -934,7 +934,7 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
             ]
         },
         "olevel_subjects": {
@@ -959,7 +959,7 @@ COURSES = [
         "olevel_subjects": {
             "fixed": ["English Language", "Biology"],
             "choices": [
-                {"from": ["Government", "History", "Accounting", "Geography", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Yoruba", "Economics", "Tourism", "Hospitality", "Commerce", "Home Economics", "Business Studies", "French", "Mathematics", "Computer Studies", "Chemistry", "Physics"], "count": 3}
+                {"from": ["Government", "History", "Accounting", "Geography", "Christian Religious Studies", "Islamic Religious Knowledge", "Yoruba", "Economics", "Tourism", "Hospitality", "Commerce", "Home Economics", "Business Studies", "French", "Mathematics", "Computer Studies", "Chemistry", "Physics"], "count": 3}
             ]
         }
     },
@@ -979,7 +979,7 @@ COURSES = [
             "fixed": ["English Language", "Mathematics"],
             "choices": [
                 {"from": ["Biology", "Health Education", "Physical and Health Education"], "count": 1},
-                {"from": ["Government", "History", "Accounting", "Geography", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Yoruba", "Economics", "Tourism", "Hospitality", "Commerce", "Home Economics", "Business Studies", "Chemistry", "Physics", "Computer Studies"], "count": 2}
+                {"from": ["Government", "History", "Accounting", "Geography", "Christian Religious Studies", "Islamic Religious Knowledge", "Yoruba", "Economics", "Tourism", "Hospitality", "Commerce", "Home Economics", "Business Studies", "Chemistry", "Physics", "Computer Studies"], "count": 2}
             ]
         }
     },
@@ -993,13 +993,13 @@ COURSES = [
             "fixed": [],
             "choices": [
                 {"from": ["History", "Government"], "count": 1},
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 2}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics"],
             "choices": [
-                {"from": ["Literature", "Economics", "Christian Religious Knowledge", "Islamic Religious Studies", "Government", "History", "Geography", "Yoruba", "Igbo Language", "Hausa Language", "French", "Accounting", "Book Keeping", "Biology"], "count": 3}
+                {"from": ["Literature", "Economics", "Christian Religious Studies", "Islamic Religious Studies", "Government", "History", "Geography", "Yoruba", "Igbo Language", "Hausa Language", "French", "Accounting", "Book Keeping", "Biology"], "count": 3}
             ]
         }
     },
@@ -1012,14 +1012,14 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Mathematics", "Physics", "Chemistry", "Biology", "Agricultural Science", "Computer Studies", "Animal Husbandry", "Data Processing", "Health Education", "Home Economics", "Hospitality", "Information and Communication Technology", "Physical Health Education"], "count": 3}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics"],
             "choices": [
                 {"from": ["Economics", "Commerce"], "count": 1},
-                {"from": ["Government", "History", "Accounting", "Geography", "Christian Religious Knowledge", "Islamic Religious Knowledge", "Commerce", "Tourism", "Hospitality", "Business Studies", "Yoruba", "Biology", "Book Keeping"], "count": 2}
+                {"from": ["Government", "History", "Accounting", "Geography", "Christian Religious Studies", "Islamic Religious Knowledge", "Commerce", "Tourism", "Hospitality", "Business Studies", "Yoruba", "Biology", "Book Keeping"], "count": 2}
             ]
         }
     },
@@ -1114,13 +1114,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 3}
+                {"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 3}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Literature", "Government", "Mathematics"],
             "choices": [
-                {"from": ["Christian Religious Knowledge", "Islamic Religious Knowledge"], "count": 1}
+                {"from": ["Christian Religious Studies", "Islamic Religious Knowledge"], "count": 1}
             ]
         }
     },
@@ -1403,13 +1403,13 @@ COURSES = [
         "jamb_subjects": {
             "fixed": [],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 3}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 3}
             ]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics"],
             "choices": [
-                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 3}
+                {"from": ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic", "Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting"], "count": 3}
             ]
         }
     },
@@ -1732,7 +1732,7 @@ COURSES = [
         "description": "The study of how societies use scarce resources to produce valuable commodities and distribute them among different individuals.",
         "jamb_subjects": {
             "fixed": ["Mathematics"],
-            "choices": [{"from": ["Government", "History", "Geography", "Literature", "French", "Christian Religious Knowledge", "Islamic Religious Studies"], "count": 2}]
+            "choices": [{"from": ["Government", "History", "Geography", "Literature", "French", "Christian Religious Studies", "Islamic Religious Studies"], "count": 2}]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics", "Economics"],
@@ -1748,7 +1748,7 @@ COURSES = [
         "description": "The study of the Earth's landscapes, environments, and the relationship between people and their environment, combined with urban and regional planning.",
         "jamb_subjects": {
             "fixed": ["Geography"],
-            "choices": [{"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}]
+            "choices": [{"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics"],
@@ -1783,7 +1783,7 @@ COURSES = [
         "description": "The scientific study of the mind and behavior.",
         "jamb_subjects": {
             "fixed": [],
-            "choices": [{"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 3}]
+            "choices": [{"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 3}]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics", "Biology"],
@@ -1801,7 +1801,7 @@ COURSES = [
             "fixed": [],
             "choices": [
                 {"from": ["History", "Government"], "count": 1},
-                {"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
+                {"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 2}
             ]
         },
         "olevel_subjects": {
@@ -1818,7 +1818,7 @@ COURSES = [
         "description": "The study of human social relationships and institutions.",
         "jamb_subjects": {
             "fixed": [],
-            "choices": [{"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 3}]
+            "choices": [{"from": ["Economics", "Government", "Geography", "Commerce", "Accounting", "Civic Education", "Financial Accounting", "Literature", "History", "French", "Painting and Decoration", "Photography", "Music", "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", "Hausa Language", "Arabic"], "count": 3}]
         },
         "olevel_subjects": {
             "fixed": ["English Language", "Mathematics"],
@@ -1882,7 +1882,7 @@ FACULTIES = [
 COMMON_JAMB_SUBJECTS = [
     "Accounting", "Agricultural Science", "Animal Husbandry", "Arabic", "Biology", "Book Keeping",
     "Building Technology", "Business Studies", "Catering Craft Practice", "Chemistry",
-    "Christian Religious Knowledge", "Civic Education", "Commerce", "Computer Studies",
+    "Christian Religious Studies", "Civic Education", "Commerce", "Computer Studies",
     "Data Processing", "Dyeing & Bleaching", "Economics", "Electrical Installation and Maintenance",
     "English Language", "Financial Accounting", "French", "Geography", "Government",
     "Hausa Language", "History", "Home Economics", "Hospitality", "Health Education",
@@ -1895,7 +1895,7 @@ COMMON_JAMB_SUBJECTS = [
 COMMON_OLEVEL_SUBJECTS = [
     "Accounting", "Agricultural Science", "Animal Husbandry", "Arabic", "Biology", "Book Keeping",
     "Building Technology", "Business Studies", "Catering Craft Practice", "Chemistry",
-    "Christian Religious Knowledge", "Civic Education", "Commerce", "Computer Studies",
+    "Christian Religious Studies", "Civic Education", "Commerce", "Computer Studies",
     "Data Processing", "Dyeing & Bleaching", "Economics", "Electrical Installation and Maintenance",
     "English Language", "Financial Accounting", "French", "Geography", "Government",
     "Hausa Language", "History", "Home Economics", "Hospitality", "Health Education",
@@ -1907,7 +1907,7 @@ COMMON_OLEVEL_SUBJECTS = [
 
 # Subject category constants for reference
 ARTS_SUBJECTS = ["Literature", "History", "French", "Painting and Decoration", "Photography", "Music", 
-                 "Christian Religious Knowledge", "Islamic Religious Studies", "Yoruba", "Igbo Language", 
+                 "Christian Religious Studies", "Islamic Religious Studies", "Yoruba", "Igbo Language", 
                  "Hausa Language", "Arabic"]
 
 SOCIAL_SCIENCE_SUBJECTS = ["Economics", "Government", "Geography", "Commerce", "Accounting", 

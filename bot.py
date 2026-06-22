@@ -18,7 +18,7 @@ MONETIZATION = {
 KNOWN_SUBJECTS = {s.lower().strip() for s in [
     "Accounting", "Agricultural Science", "Animal Husbandry", "Arabic", "Biology", "Book Keeping",
     "Building Technology", "Business Studies", "Catering Craft Practice", "Chemistry",
-    "Christian Religious Knowledge", "Civic Education", "Commerce", "Computer Studies",
+    "Christian Religious Studies", "Civic Education", "Commerce", "Computer Studies",
     "Data Processing", "Dyeing & Bleaching", "Economics", "Electrical Installation and Maintenance",
     "English Language", "Financial Accounting", "French", "Geography", "Government",
     "Hausa Language", "History", "Home Economics", "Hospitality", "Health Education",
