@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+bot_error.log
+bot_output.log
+spelling_map1.py
