@@ -324,9 +324,23 @@ def main():
     if not TOKEN or TOKEN == "your_telegram_bot_token_here":
         print("ERROR: Missing BOT_TOKEN in .env"); return
 
-    offset = 0
-    print("Bot running! Send /start to @EKSUCourseCompassBot", flush=True)
+    import threading, http.server
 
+    port = int(os.getenv("PORT", 10000))
+
+    class H(http.server.BaseHTTPRequestHandler):
+        def do_GET(s):
+            s.send_response(200)
+            s.end_headers()
+            s.wfile.write(b"ok")
+        def log_message(s, *a): pass
+
+    httpd = http.server.HTTPServer(("0.0.0.0", port), H)
+    t = threading.Thread(target=httpd.serve_forever, daemon=True)
+    t.start()
+    print(f"Bot running on port {port}. Send /start to @EKSUCourseCompassBot", flush=True)
+
+    offset = 0
     while True:
         try:
             r = requests.get(f"https://api.telegram.org/bot{TOKEN}/getUpdates", params={"offset": offset, "timeout": 30}, timeout=35)
