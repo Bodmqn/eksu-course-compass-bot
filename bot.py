@@ -186,7 +186,7 @@ def show_results(chat_id, msg_id, ud):
         parts.append("No fully qualified courses.")
 
     if r["jamb_only"]:
-        lines = [f"NEARLY - OLevel issue ({len(r['jamb_only'])}):"]
+        lines = [f"NEARLY QUALIFY- OLevel issue ({len(r['jamb_only'])}):"]
         groups = {}
         for item in r["jamb_only"]:
             groups.setdefault(item["course"]["faculty"], []).append(item)
